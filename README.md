@@ -1,7 +1,6 @@
 Microservice Kafka Sample
 ==================
 
-[Deutsche Anleitung zum Starten des Beispiels](WIE-LAUFEN.md)
 
 This is a sample to show how Kafka can be used for the communication
 between microservices.
